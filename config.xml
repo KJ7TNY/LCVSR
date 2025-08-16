@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget id="lcv.scanner.radio" version="2025.8.16" android-versionCode="20250816">
+  <name>LCVSR</name>
+  <description>LC Valley Scanner Radio</description>
+  <author>KJ7TNY</author>
+  <content src="index.html" />
+  <icon src="res/icon.png" />
+  <preference name="Fullscreen" value="true" />
+  <preference name="AndroidPersistentFileLocation" value="Compatibility" />
+  <preference name="DisallowOverscroll" value="true" />
+  <preference name="android-minSdkVersion" value="22" />
+  
+  <platform name="android">
+      <preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/splash.png" />
+      <preference name="AndroidWindowSplashScreenBackground" value="#1e1e1e" />
+      <preference name="SplashScreenDelay" value="2000" />
+      
+      <icon density="ldpi" src="res/icon.png" />
+      <icon density="mdpi" src="res/icon.png" />
+      <icon density="hdpi" src="res/icon.png" />
+      <icon density="xhdpi" src="res/icon.png" />
+      <icon density="xxhdpi" src="res/icon.png" />
+  </platform>
+</widget>
