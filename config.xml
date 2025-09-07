@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget android-versionCode="20250816" id="lcv.scanner.radio" version="2025.8.16">
+<widget android-versionCode="20250907" id="lcv.scanner.radio" version="2025.9.07">
     <name>LCVSR</name>
     <description>LC Valley Scanner Radio</description>
     <author>KJ7TNY</author>
@@ -24,3 +24,4 @@
         <icon density="xxxhdpi" src="resources/android/icon/drawable-xxxhdpi-icon.png" />
     </platform>
 </widget>
+
